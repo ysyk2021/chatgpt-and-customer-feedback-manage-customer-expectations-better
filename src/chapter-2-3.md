@@ -3,13 +3,6 @@ Importance of Collecting and Analyzing Customer Feedback
 
 Customer feedback is a critical component of running a successful business. It provides valuable insights into customer needs, preferences, and satisfaction levels, allowing businesses to make informed decisions and improve their products or services. In this chapter, we will explore the basics of customer feedback and the importance of collecting and analyzing it.
 
-What is Customer Feedback?
---------------------------
-
-Customer feedback is information provided by customers about their experiences with a product or service. This can include feedback on features, usability, customer support, pricing, and other aspects of the customer experience.
-
-Collecting customer feedback can be done through various channels, such as surveys, reviews, social media, and customer support interactions.
-
 Importance of Collecting and Analyzing Customer Feedback
 --------------------------------------------------------
 
