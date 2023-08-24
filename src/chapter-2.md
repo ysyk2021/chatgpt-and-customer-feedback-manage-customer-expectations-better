@@ -1,5 +1,3 @@
-Chapter 1: Basics of Customer Feedback
-======================================
 
 Customer feedback is a critical component of running a successful business. It allows businesses to understand customer needs and preferences, identify areas for improvement, and make informed decisions about product development and marketing. In this chapter, we will explore the basics of customer feedback, including its definition, different types, and why it's essential to collect and analyze.
 

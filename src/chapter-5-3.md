@@ -1,5 +1,3 @@
-How ChatGPT can be used for managing customer expectations through feedback
-=============================================================================================================
 
 ChatGPT is an artificial intelligence technology that uses natural language processing to understand and respond to customer inquiries and concerns. In this chapter, we will explore how ChatGPT can be used for managing customer expectations through feedback.
 

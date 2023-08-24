@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will explore the basics of ChatGPT and how it can be used for managing customer feedback.
 

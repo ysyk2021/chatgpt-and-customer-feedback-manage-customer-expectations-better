@@ -1,5 +1,3 @@
-How AI and Chatbots can help manage customer expectations
-===================================================================================================================================
 
 AI and chatbots are becoming increasingly popular tools for managing customer expectations. In this chapter, we will explore how AI and chatbots can be used to improve customer satisfaction by managing their expectations.
 

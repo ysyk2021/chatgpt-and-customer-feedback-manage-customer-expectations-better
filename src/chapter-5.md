@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT (Generative Pre-trained Transformer) is an advanced NLP-based AI model developed by OpenAI that has revolutionized natural language processing and generation. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used for managing customer expectations through feedback.
 

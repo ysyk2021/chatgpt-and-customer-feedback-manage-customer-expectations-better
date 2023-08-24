@@ -1,5 +1,3 @@
-Different Types of Customer Feedback
-============================================================================
 
 Collecting customer feedback is critical for businesses to understand customer needs and preferences. In this chapter, we will explore the different types of customer feedback and their importance in business.
 

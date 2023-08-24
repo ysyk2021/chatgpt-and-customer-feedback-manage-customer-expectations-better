@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool for managing customer expectations through customer feedback. In this chapter, we will explore the features and capabilities of ChatGPT.
 
