@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Customer Satisfaction
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the best practices for using ChatGPT to effectively manage customer feedback and improve customer satisfaction. These practices are designed to optimize the use of AI technology and ensure positive customer experiences.
 

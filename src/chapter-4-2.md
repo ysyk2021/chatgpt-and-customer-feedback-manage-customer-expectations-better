@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Help Manage Customer Expectations
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ways in which AI and chatbots can effectively manage customer expectations. By leveraging these technologies, businesses can provide proactive support, personalized experiences, and consistent interactions to meet and exceed customer expectations.
 

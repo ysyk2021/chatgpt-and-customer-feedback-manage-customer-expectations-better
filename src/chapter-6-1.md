@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT for Managing Customer Expectations
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide a step-by-step guide to implementing ChatGPT for managing customer expectations effectively. These steps outline the key considerations and best practices involved in leveraging AI technology to enhance customer feedback management.
 

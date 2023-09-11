@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This final chapter provides a comprehensive conclusion to the book "ChatGPT and Customer Feedback: Manage Customer Expectations Better." It also highlights the future outlook for ChatGPT and its potential impact on managing customer expectations.
 

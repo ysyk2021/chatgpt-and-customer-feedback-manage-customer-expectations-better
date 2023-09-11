@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Managing Customer Expectations Through Feedback
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how ChatGPT, a powerful language model, can be leveraged to manage customer expectations effectively through feedback. By utilizing ChatGPT, businesses can gather, analyze, and act upon customer feedback more efficiently and with enhanced accuracy.
 

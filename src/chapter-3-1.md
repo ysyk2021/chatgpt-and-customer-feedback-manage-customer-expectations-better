@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Customer Expectations
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the key factors that can influence customer expectations when it comes to receiving assistance through ChatGPT.
 

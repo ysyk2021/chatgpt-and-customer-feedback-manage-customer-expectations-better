@@ -1,5 +1,4 @@
-Chapter: Case Studies of Businesses that have Successfully Implemented ChatGPT for Customer Feedback
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore real-world case studies of businesses that have successfully implemented ChatGPT for managing customer feedback. These case studies highlight the benefits, challenges, and best practices adopted by these organizations in leveraging AI technology to meet customer expectations effectively.
 

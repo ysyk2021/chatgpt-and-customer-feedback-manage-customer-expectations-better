@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore what ChatGPT is and its significance in managing customer feedback and meeting customer expectations.
 

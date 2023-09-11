@@ -1,5 +1,4 @@
-Chapter: Different Types of Customer Feedback
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the various types of customer feedback that businesses can collect to better manage customer expectations. Understanding the different types of feedback allows businesses to gain deeper insights into customer experiences and preferences.
 

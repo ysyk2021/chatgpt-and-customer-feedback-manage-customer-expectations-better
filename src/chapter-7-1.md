@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Managing Customer Expectations with ChatGPT
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential advancements and future possibilities in managing customer expectations using ChatGPT. As technology advances and AI models continue to evolve, businesses can leverage new features and capabilities to further enhance their customer feedback management process.
 

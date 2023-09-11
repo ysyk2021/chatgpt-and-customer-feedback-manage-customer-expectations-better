@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Businesses in Managing Customer Expectations
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the common challenges that businesses encounter when using ChatGPT to manage customer expectations effectively.
 

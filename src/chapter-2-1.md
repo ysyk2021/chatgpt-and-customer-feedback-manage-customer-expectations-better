@@ -1,5 +1,4 @@
-Chapter: Definition of Customer Feedback
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the definition of customer feedback and its importance in managing customer expectations. Customer feedback refers to the information and opinions provided by customers about their experiences with a product or service. It can take many forms, including surveys, reviews, social media comments, and direct interactions with customer support teams.
 

@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter provides an overview of the features and capabilities of ChatGPT, highlighting its key functionalities that enable effective management of customer feedback and customer expectations.
 

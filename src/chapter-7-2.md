@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Managing Customer Expectations and ChatGPT
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the emerging trends and challenges in managing customer expectations with ChatGPT. As businesses continue to leverage AI models like ChatGPT, new opportunities arise, along with potential hurdles that need to be addressed.
 
